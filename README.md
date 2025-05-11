@@ -17,9 +17,6 @@ Browser → Apache → CGI Scripts ↔ MySQL ↔ File System
 
 ### **1.2 Database Design**
 
-**ER Diagram**:  
-![ER Diagram](https://via.placeholder.com/800x400.png?text=ER+Diagram)
-
 **Tables**:
 
 ```sql
